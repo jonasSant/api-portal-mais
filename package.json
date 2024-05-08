@@ -1,0 +1,17 @@
+{
+  "name": "portal-mais",
+  "version": "1.0.0",
+  "description": "A blog based on repost and share interviews and news about the world of technology",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Jonas Santos(github.com/jonasSant)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^3.1.0"
+  }
+}
