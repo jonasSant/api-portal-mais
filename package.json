@@ -1,0 +1,23 @@
+{
+  "name": "portal-mais",
+  "version": "1.0.0",
+  "description": "A blog based on repost and share interviews and news about the world of technology",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Jonas Santos(github.com/jonasSant)",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.6.1",
+    "mongoose": "^8.3.4",
+    "nodemon": "^3.1.0",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
